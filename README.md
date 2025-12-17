@@ -9,7 +9,7 @@
 
 Descrição sobre o projeto.
 
-## Stacs utilizadas
+## Stacks utilizadas
 
 <!-- Utilize badges para representar o que foi usado no projeto, 
 	Acesse:
