@@ -1,7 +1,7 @@
 <!-- Imagem ou gif do projeto -->
 
 <p align="center">
-  <img src="../.github/example.png" alt="Nome do projeto">
+  <img src="https://github.com/user-attachments/assets/e5dd5c0f-f2c8-4c2e-a3c4-158ecd11cf2f" alt="Nome do projeto">
 </p>
 
 # Nome do projeto.
