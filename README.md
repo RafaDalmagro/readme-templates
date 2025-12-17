@@ -26,7 +26,8 @@ Descrição sobre o projeto.
 
 - **Python**: versão **3.11**
 - **pip** instalado
-- Conta e chave de API da **OpenAI**
+- **npm** instalado
+- **node**: versão => 18
 
 ### Passo a passo instalação
 
