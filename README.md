@@ -4,11 +4,10 @@
   <img src="https://github.com/user-attachments/assets/e5dd5c0f-f2c8-4c2e-a3c4-158ecd11cf2f" alt="Nome do projeto">
 </p>
 
-# Nome do projeto.
+# Nome do projeto
 <!-- Fale sobre o que o projeto faz, quais foram as ferramentas usadas e o por que do seu desenvolvimento. -->
 
 Descrição sobre o projeto.
-
 
 ## Stacs utilizadas
 
@@ -35,11 +34,11 @@ Descrição sobre o projeto.
 ```bash
 npm install
 ```
-2. **Create containers**: 
+2. **Criando containers**: 
 ```bash
 docker-compose up -d
 ```
-3. **Environment variables**: 
+3. **Variáveis de ambiente**: 
 Copiar `.env.example` para o `.env.local`
 
 ## Guia de uso
